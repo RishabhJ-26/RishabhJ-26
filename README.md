@@ -23,7 +23,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/rishabh2004)
 
 ## 🚀 Featured Projects:
-- **[Melodify-Your Music,Your Mood](http://melodify.freewebhostmost.com/)**: A dynamic music recommendation platform that adapts to your mood. Leveraging AI algorithms, MELODIFY analyzes user preferences and mood to curate personalized playlists, enhancing the listening experience. Built with modern web technologies for a seamless and responsive interface.
+- **[Melodify-Your Music,Your Mood](https://melodify-two.vercel.app/)**: A dynamic music recommendation platform that adapts to your mood. Leveraging AI algorithms, MELODIFY analyzes user preferences and mood to curate personalized playlists, enhancing the listening experience. Built with modern web technologies for a seamless and responsive interface.
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
