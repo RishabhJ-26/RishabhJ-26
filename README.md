@@ -2,7 +2,9 @@
 <h3 align="center">A Driven Software Developer with a passion for building innovative solutions</h3>
 
 <p align="center">
-  🌐 <a href="https://rishabhjain.dev" target="_blank"><strong>Visit My Portfolio</strong></a>
+  <a href="https://rishabhjain.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" />
+  </a>
 </p>
 
 <img align="right" width="405" alt="coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ6ZTlqN2RvODFmd2w4dzUzMnQwNDFibHhtcG1jNm5ma2N4N2t1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
