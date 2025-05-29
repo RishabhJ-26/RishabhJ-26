@@ -2,7 +2,7 @@
 <h3 align="center">A Driven Software Developer with a passion for building innovative solutions</h3>
 
 <p align="center">
-  <a href="https://rishabhjain.dev" target="_blank">
+  <a href="https://rishabh-jain.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="portfolio" />
   </a>
 </p>
