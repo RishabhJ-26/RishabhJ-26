@@ -61,3 +61,7 @@
 
 ## 💰 You can help me by Donating:
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/enris26)
+
+## 🐍 Watch the Snake Eat My Contributions
+![snake gif](https://github.com/RishabhJ-26/RishabhJ-26/blob/output/github-contribution-grid-snake.svg)
+
