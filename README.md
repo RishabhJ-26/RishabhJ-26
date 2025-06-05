@@ -63,6 +63,6 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/enris26)
 
 ## 🐍 Watch the Snake Eat My Contributions
-<img src="https://raw.githubusercontent.com/RishabhJ-26/RishabhJ-26/output/github-contribution-grid-snake.svg" alt="snake gif" width="600" />
+<img src="https://raw.githubusercontent.com/RishabhJ-26/RishabhJ-26/output/github-contribution-grid-snake.svg" alt="snake gif" width="800" />
 
 
